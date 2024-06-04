@@ -1,0 +1,8 @@
+﻿Número;Funcionário;Tempo
+13;Antonio Mendes;20
+34;Carla Mante;15
+21;Daniel Maves;7
+7;Gabriel Goncalvez;32
+41;Maria Anter;12
+31;Felipe Silva;23
+4;Mara Santos;10

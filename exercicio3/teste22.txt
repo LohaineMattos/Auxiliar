@@ -1,0 +1,8 @@
+#include <stdio.h>
+   
+int main (){
+	printf ("Alo Mundo!"); //comentando
+//hjbjj 
+//ruonk  gnvih
+//yhjng  yomf
+}
